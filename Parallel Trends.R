@@ -1,6 +1,6 @@
-Below is the code used to provide the descriptive statistics for the analysis. Most notably, this code was used to 
+## Below is the code used to provide the descriptive statistics for the analysis. Most notably, this code was used to 
 prove the parallel trend assumption necessary to employ a difference-in-difference methodology. The rest of the R and
-Stata code used in the analysis is located in the main branch along with the excels needed to complete the replication.
+Stata code used in the analysis is located in the main branch along with the excels needed to complete the replication ##
 
 ############################ Parallel Trends CT #############################
 
