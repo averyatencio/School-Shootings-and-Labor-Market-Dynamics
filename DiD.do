@@ -1,4 +1,4 @@
-Below is the Stata code used for the zonal difference-in-difference analysis.
+** Below is the Stata code used for the zonal difference-in-difference analysis **
 
 // Labor Yearly Regressions // 
 
