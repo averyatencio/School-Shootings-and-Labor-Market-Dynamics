@@ -2,6 +2,7 @@ library(readxl)
 library(dplyr)
 library(openxlsx)
 
+
 #Combining all counties 
 CT_Total <- read_excel("Documents/Master's Thesis/Labor Data/CT/CT_Total.xlsx")
 NJ_Total <- read_excel("Documents/Master's Thesis/Labor Data/NJ/NJ_Total.xlsx")
