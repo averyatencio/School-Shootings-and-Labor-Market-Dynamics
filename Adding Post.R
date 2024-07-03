@@ -3,6 +3,7 @@ library(readxl)
 library(openxlsx)
 library(dplyr)
 
+
 ################################### TX #########################################
 
 TX_Total <- read_excel("Documents/Master's Thesis/Labor Data/TX_Total.xlsx")
