@@ -5,6 +5,7 @@ library(openxlsx)
 
 ##################################### CT ######################################
 
+
 Housing_CT <- read_excel("Documents/Master's Thesis/Labor Term Paper/Labor Data/CT/Annual Housing Permit Data CT.xlsx")
 
 #Adding the same counties together
